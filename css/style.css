@@ -1,0 +1,9 @@
+p {
+    color: brown;
+}
+
+.bold {
+    font: 2em bold;
+    border: 5px solid;
+    border-radius: 3%;
+}
