@@ -7,3 +7,8 @@ p {
     border: 5px solid;
     border-radius: 3%;
 }
+
+.letra {
+    font-size: 25px;
+    color: rgb(17, 28, 121);
+}
